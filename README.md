@@ -1,7 +1,7 @@
 # VAT CALCULATOR 
 Your colleague started to implement a VAT calculator as a web API for the Nordic countries. The calculator is almost finished, but your colleague is not available to finish the task.
 
-You will need to finish up this calculator according to the test, The calculator is missing an implementation for Denmark and according to your colleague the code could be improved.  
+You will need to finish up this calculator according to the test, The calculator is missing an implementation for Denmark and according to your colleague the code should be improved.  
 
 ## Getting started:
 1. Open the .sln file
