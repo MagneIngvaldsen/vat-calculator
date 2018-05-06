@@ -6,7 +6,7 @@ You will need to finish up this calculator according to the test, The calculator
 ## Getting started:
 1. Open the .sln file
 2. Run the test
-3. Implement the (simple) VAT rules for Denmark, and in the process improve the design and the code
+3. Implement the VAT rules for Denmark, and in the process improve the design and the code
 
 ## Tips
 
